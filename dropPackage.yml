@@ -1,0 +1,64 @@
+# Made by RandomHashTags
+Panes:
+  #Default Panes - When you open a drop package, these show up
+  Item: 'trapped_chest'
+  Data: 0
+  Name: '&f&l???'
+  Lore:
+  - '&7Choose 4 mystery panels, and'
+  - '&7your loot will be revealed'
+Legendary:
+  ChestName: 'Legendary Drop Package'
+  Name: '&6&lLegendary Drop Package &7(Right Click)'
+  Lore:
+  - '&7A cache of equipment packaged by'
+  - '&7the Intergalactic Server Station.'
+  Pane: # Revealed pane when done randomizing the loot
+    Name: '&6&l???'
+    Lore:
+    - '&7This slot contains a(n)'
+    - '&6Legendary &7piece of %dropPackageRarity% &7equipment'
+Ultimate:
+  ChestName: 'Ultimate Drop Package'
+  Name: '&e&lUltimate Drop Package &7(Right Click)'
+  Lore:
+  - '&7A cache of equipment packaged by'
+  - '&7the Intergalactic Server Station.'
+  Pane: # Revealed pane when done randomizing the loot
+    Name: '&e&l???'
+    Lore:
+    - '&7This slot contains a(n)'
+    - '&eUltimate &7piece of %dropPackageRarity% &7equipment'
+Elite:
+  ChestName: 'Elite Drop Package'
+  Name: '&b&lElite Drop Package &7(Right Click)'
+  Lore:
+  - '&7A cache of equipment packaged by'
+  - '&7the Intergalactic Server Station.'
+  Pane: # Revealed pane when done randomizing the loot
+    Name: '&b&l???'
+    Lore:
+    - '&7This slot contains a(n)'
+    - '&bElite &7piece of %dropPackageRarity% &7equipment'
+Unique:
+  ChestName: 'Unique Drop Package'
+  Name: '&a&lUnique Drop Package &7(Right Click)'
+  Lore:
+  - '&7A cache of equipment packaged by'
+  - '&7the Intergalactic Server Station.'
+  Pane: # Revealed pane when done randomizing the loot
+    Name: '&a&l???'
+    Lore:
+    - '&7This slot contains a(n)'
+    - '&aUnique &7piece of %dropPackageRarity% &7equipment'
+Simple:
+  ChestName: 'Simple Drop Package'
+  Name: '&7&lSimple Drop Package &7(Right Click)'
+  Lore:
+  - '&7A cache of equipment packaged by'
+  - '&7the Intergalactic Server Station.'
+  Pane: # Revealed pane when done randomizing the loot
+    Name: '&7&l???'
+    Lore:
+    - '&7This slot contains a(n)'
+    - '&7Legendary &7piece of %dropPackageRarity% &7equipment'

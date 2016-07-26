@@ -1,0 +1,50 @@
+# Made by RandomHashTags
+#
+# The player is in a legendary drop package, and is revealing their loot
+# LOOT IS ONLY AVAILABLE THROUGH A LEGENDARY DROP PACKAGE
+#
+# If set to true, the item will automatically added to the available items
+blackscroll: true
+whitescroll: true
+transmogscroll: true
+mysterymobspawner: true
+legendaryDP: true
+ultimateDP: true
+eliteDP: true
+uniqueDP: true
+simpleDP: true
+legendaryBook: true
+ultimateBook: true
+eliteBook: true
+uniqueBook: true
+simpleBook: true
+# Player is in a legendary drop package, and picked a legendary pane
+Legendary:
+  Item1:
+    item: 'apple'
+    amount: 1
+    data: 0
+    name: '&6apple'
+    lore:
+    - '&6lore 1'
+    - '&6lore 2'
+# Player is in a legendary drop package, and picked a ultimate pane
+Ultimate:
+  Item1:
+    item: 'stick'
+    amount: 1
+    data: 0
+    name: '&6stick'
+    lore:
+    - '&6lore 1'
+    - '&6lore 2'
+# Player is in a legendary drop package, and picked a elite pane
+Elite:
+  Item1:
+    item: 'cookie'
+    amount: 1
+    data: 0
+    name: '&6cookie'
+    lore:
+    - '&6lore 1'
+    - '&6lore 2'

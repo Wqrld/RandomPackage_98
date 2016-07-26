@@ -1,0 +1,82 @@
+# Made by RandomHashTags
+relore:
+  Messages:
+    Relore: '&9RandomPackage> &7You successfully made your lore %lore%'
+    ItemIsAir: '&cYou need to be holding an item in your hand to replace the lore'
+    Usage: '&9RandomPackage> &7/relore &e<lore>'
+    TooManyArguments: '&cTOO MANY ARGUMENTS!'
+addlore:
+  Messages:
+    Success: '&9RandomPackage> &7You successfully added the lore %lore%'
+    Usage: '&9RandomPackage> &7/addlore &e<lore>'
+    ItemInMainHandAir: '&cYou need to be holding an item in your hand to add lore'
+    TooManyArguments: '&cTOO MANY ARGUMENTS!'
+Bosses:
+  KingSlime:
+    SummonMessage: '&e&lKing Slime>> &f&oAh, so you are %playerName%, the infamous slime killer. Prepare to meet your doom!'
+    Name: '&e&lKing Slime'
+    Lore:
+    - '&7This monster egg contains a'
+    - '&c&ndangerous&r &7warzone boss'
+    - ' '
+    - '&e&lLORE'
+    - '&7&oAn enormous slime, rumored to be'
+    - '&7&othe king of all slimes in the'
+    - '&7&oServer. Apparently he has anger'
+    - '&7&oissues'
+    - ' '
+    - '&e&lDIFFUCULTY'
+    - '&eUltimate'
+    BroadcastMessage:
+    - ' '
+    - '&b&lA &6&lKING SLIME &b&lHAS BEEN SUMMONED AT &c%coords%'
+    - ' '
+Trade:
+  ChestName: '%accepter%         %sender%'
+  ChestSize: 54
+  AcceptPane:
+    Color: 14
+    Name: '&eClick to ACCEPT Trade'
+    Lore: ' '
+  TimeoutDelay: 10
+  Messages:
+    Usage: '&9Random+>> &7/trade &e<player>'
+    TooManyArgs: '&9Random>> &7/trade &e<player>'
+    SendTradeRequest: '&6&l(!) &6You''ve send a trade request to &6%target%'
+    RecieveTrade1: '&6&l(!) &6You''ve revieved a trade from &6%sender%'
+    RecieveTrade2: '&7Type &e/trade &6%sender% &7to accept the trade'
+    PlayerIsOffline: '&9Random+>> &7Player doesn''t exist or is offline'
+    TradeAccepted: '&a&lTrade Accepted'
+    TradeCancelled: '&c&lTrade Cancelled'
+ExplosiveCake:
+  DisplayName: '&f&lExplosive Cake &r&7(Right Click)'
+  Lore1: '&7Really? Have you not seen an'
+  Lore2: '&7&nEXPLODING &r&7cake before?!'
+  Messages:
+    Obtain: '&7You obtained a &f&lExplosive Cake!'
+    ObtainFromPlayerOrConsole: '&7You obtained a &f&lExplosive Cake &r&7from &6%giver%!'
+ExplosiveSnowballs:
+  DisplayName: '&b&lExplosive Snowball &r&7(Right Click)'
+  Lore1: '&7Yes, this is a snowball with TNT inside.'
+  Lore2: '&7Seriously, Happy Holidays!'
+  Messages:
+    Obtain: '&7You obtained a &b&lExplosive Snowball!'
+    ObtainFromPlayerOrConsole: '&7You obtained a &b&lExplosive Snowball &r&7from &6%giver%!'
+TitleOptions:
+  ChatFormat: '%playerCustomName% %title% %message%'
+  RandomHashTags:
+    ItemName: '&b&lTITLE "&fRandomHashTags&b&l"'
+    ItemLore1: '&7Right-click this item to unlock'
+    ItemLore2: '&7the RandomHashTags title on this server'
+    ChatSuffix: '&8&l[&cRandomHashTags&8&l]'
+    Messages:
+      Apply1: '&b&l(!) You have UNLOCKED the "&fRandomHashTags&b&l" title!'
+      Apply2: '&7Equip your new title in the /title menu!'
+  Poofless:
+    ItemName: '&b&lTITLE "&fPoofless&b&l"'
+    ItemLore1: '&7Right-click this item to unlock'
+    ItemLore2: '&7the Poofless title on this server'
+    ChatSuffix: '&8&l[&6Poofless&8&l]'
+    Messages:
+      Apply1: '&b&l(!) You have UNLOCKED the "&fPoofless&b&l" title!'
+      Apply2: '&7Equip your new title in the /title menu!'
