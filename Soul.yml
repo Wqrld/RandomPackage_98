@@ -71,7 +71,7 @@ Messages:
     AddSoulGems: '&a&l+%souls% Soul Gem(s)'
     ItemHasNoSoulTracker: '&c&l(!) &eYou must have a weapon with a Soul Tracker to do this'
     NoSouls: '&c&l(!) &eYou need to have captured Souls to do this command'
-    Split: '&e&l(!) &eYour Soul Gem has been split into two getms successfully'
+    Split: '&e&l(!) &eYour Soul Gem has been split into two gems successfully'
     SplitLegendary: '&6&l-%souls% Legendary Souls'
     SplitUltimate: '&e&l-%souls% Ultimate Souls'
     SplitElite: '&b&l-%souls% Elite Souls'
