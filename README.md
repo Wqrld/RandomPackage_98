@@ -7,8 +7,4 @@ You can edit the code and create issues and pull requests if you desire, but you
 My Minecraft name is RandomHashTags, and I own this plugin.
 
 If you try and claim this plugin as your own, and release it to the public, that is Piracy, and it is illegal.
-/██████████████████████████████████████████████████████████████████████████████████████████████████████/
-█                                       All  Rights  Reserved.                                         █
-█                                          RandomHashTags                                              █
-█                                             SpigotMC                                                 █
-/██████████████████████████████████████████████████████████████████████████████████████████████████████/
+All  Rights  Reserved                                            
